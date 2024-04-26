@@ -25,5 +25,10 @@ The game offers a classic Snake experience, where the player maneuvers the snake
 
 
 
+https://github.com/NaumanSayed/Snake-Game/assets/141490106/33ce5a6f-2503-494c-912a-050ba7361376
+
+
+
+
 
 
